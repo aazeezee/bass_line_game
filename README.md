@@ -21,7 +21,7 @@ Download the executable file `BassLine_ver.xxxx.exe` and the accompanying data Z
 	- Planning to create more levels
 
 ## Current Known Issues
-- Issues with Explode() method in the TrailBehavior class, which was meant to simulate the explosion of the train into many fragments when it hits an obstacle. However, some of the fragments kept shooting off at breakneck speeds for reasons unknown; currently just settling for one fragment.
+- Issues with Explode() method in the TrailBehavior class, which was meant to simulate the explosion of the Bass Line into many fragments when it hits an obstacle. However, some of the fragments kept shooting off at breakneck speeds for reasons unknown; currently just settling for one fragment.
 - Gravity:
 	- When the Bass Line is touching the ground, gravity is turned off to allow the line to “slide” across the ground. When it is airborne, gravity is turned back on to allow it to fall.
 	- During testing in which I played the game on different devices, the Bass Line fell faster on one device than another, meaning that certain areas became unreachable. This could possibly be due to the internal CPU clock of one device being faster than another, allowing gravity to be calculated faster and therefore have a greater influence on objects in the game.
