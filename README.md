@@ -10,7 +10,7 @@ The Main Menu screen allows the player to select a level and also preview the ba
 There are also collectibles placed at select points in the stage where the player will have to pull off highly skilled maneuvers in order to grab them. Obtaining all collectibles and reaching the goal would represent 100% completion of a level.
 
 ## How To Play Current Build
-Download the executable file "BassLine_ver.xxxx.exe" and the accompanying data zip file "BassLine_ver.xxxx_Data". Then extract the contents of the zip file to the same folder where you have stored the executable before running it.
+Download the executable file `BassLine_ver.xxxx.exe` and the accompanying data ZIP file `BassLine_ver.xxxx_Data`. Then extract the contents of the ZIP file to the same folder where you have stored the executable before running it.
 
 ## Pending Features
 - Planning to implement checkpoints and progress markers in the stage to show the player how far they have progressed in a level.
